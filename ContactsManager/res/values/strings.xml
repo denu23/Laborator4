@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts Manager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="name">Name</string>
+	<string name="phone_number">0214029179</string>
+	<string name="email">Email</string>
+	<string name="address">Address</string>
+	<string name="show_fields">Show additional fields</string>
+	<string name="save">Save</string>
+	<string name="cancel">Cancel</string>
+	<string name="job">Job Title</string>
+	<string name="company">Company</string>
+	<string name="website">Website</string>
+	<string name="messenger">IM</string>
+	
+</resources>
